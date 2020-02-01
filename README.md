@@ -18,6 +18,6 @@ allprojects {
 ### 指定module gradle
 ```
 dependencies {
-	        implementation 'com.github.SunnyLine:dimens-compat:Tag'
+	        implementation 'com.github.SunnyLine:dimens-compat:v1.0.0'
 }
 ```
